@@ -1,0 +1,26 @@
+@import './partials/reset';
+@import './partials/fonts';
+/* Add additional partials at here ... */
+
+
+body{
+    font-family: 'Roboto';
+    padding: 50px;
+
+    h1{
+        font-weight: 700;
+        font-size: 30px;
+    }
+
+    a{
+        color: blue;
+        text-decoration: none;
+
+        &:hover{
+            color: red;
+        }
+    }
+}
+
+
+/* Write your CSS codes at here ... */
