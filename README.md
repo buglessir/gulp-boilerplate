@@ -32,7 +32,7 @@ Then run build task to create build folder and files :
 
 `gulp compress_images`
 
-## Plate folders and structure :
+## Folders and structure :
 
 1) put CSS files into: `input/css/...`
 
